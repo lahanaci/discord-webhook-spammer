@@ -6,10 +6,6 @@ Python ile hızlı çalışan discord webhook spammer
 
 - [@.lahanaci](https://discord.gg/santes) yardım için
 
-  ## Özellikler
-
-- Hızlılık
-- Kolay Kullanım
 
   ## NOT
 
