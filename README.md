@@ -24,5 +24,12 @@ main.py dosyasını çalıştırmak için gerekli paketler
   requests
   termcolor
 ```
+## Run
+
+Kodu çalıştırmak İçin
+
+```bash
+  python main.py
+```
 
 
