@@ -16,3 +16,13 @@ Python ile hızlı çalışan discord webhook spammer
 Bu Proje `eğitim amaçlıdır` Lütfen Abartmayın
 
 
+## Paketler 
+
+main.py dosyasını çalıştırmak için gerekli paketler
+
+```bash 
+  requests
+  termcolor
+```
+
+
