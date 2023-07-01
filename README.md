@@ -1,3 +1,5 @@
+![Logo](https://r.resimlink.com/3RGLgNDT209x.png)
+
 # Web Hook Spammer
 
 Python ile hızlı çalışan discord webhook spammer
@@ -27,5 +29,8 @@ Kodu çalıştırmak İçin
 ```bash
   python main.py
 ```
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://r.resimlink.com/Tn9DkP-Xog.png)
 
 
