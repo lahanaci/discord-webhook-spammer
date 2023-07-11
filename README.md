@@ -11,7 +11,7 @@ Python ile hızlı çalışan discord webhook spammer
 
   ## NOT
 
-Bu Proje `eğitim amaçlıdır` Lütfen Abartmayın
+Bu Proje `eğitim amaçlıdır`
 
 
 ## Paketler 
